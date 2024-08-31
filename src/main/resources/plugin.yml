@@ -1,0 +1,8 @@
+name: MCZonePlugin
+version: 1.0
+main: fr.cyberdodo.zonemc.MCZonePlugin
+api-version: 1.21
+commands:
+  mczone:
+    description: Manage zones in the game.
+    usage: /mczone <create/remove/setzonepos1/setzonepos2/list>
